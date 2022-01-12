@@ -1,6 +1,26 @@
 {
   "folders": [
     {
+      "name": "utils",
+      "path": "packages/utils/"
+    },
+    {
+      "name": "hooks",
+      "path": "packages/hooks/"
+    },
+    {
+      "name": "procomponent",
+      "path": "packages/procomponent/"
+    },
+    {
+      "name": "component",
+      "path": "packages/component/"
+    },
+    {
+      "name": "button",
+      "path": "packages/button/"
+    },
+    {
       "name": "monorepo",
       "path": "."
     }
@@ -36,12 +56,18 @@
       "**/bower_components": true
     },
     //
-    "editor.rulers": [80, 120],
+    "editor.rulers": [
+      80,
+      120
+    ],
     "files.eol": "\n",
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
     //
-    "todo-tree.general.tags": ["TODO:", "FIXME:"],
+    "todo-tree.general.tags": [
+      "TODO:",
+      "FIXME:"
+    ],
     "todo-tree.highlights.defaultHighlight": {
       "gutterIcon": true
     },
