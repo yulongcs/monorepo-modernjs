@@ -1,5 +1,5 @@
 {
-  "name": "procomponent",
+  "name": "@yulongcs/procomponent",
   "version": "0.1.0",
   "jsnext:source": "./src/index.ts",
   "types": "./dist/types/index.d.ts",
