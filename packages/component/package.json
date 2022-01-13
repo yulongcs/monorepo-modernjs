@@ -41,7 +41,6 @@
     "*.scss"
   ],
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "registry": "http://localhost:4873/"
   }
 }
