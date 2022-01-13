@@ -1,5 +1,11 @@
 # component
 
+## 0.1.2
+
+### Patch Changes
+
+- chore: 发布到私有库
+
 ## 0.1.1
 
 ### Patch Changes
